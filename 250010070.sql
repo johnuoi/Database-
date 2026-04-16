@@ -69,3 +69,6 @@ VALUES
 (1, '2026-04-10', '2026-04-12');
 
 SELECT * FROM Barang;
+SELECT * FROM Pelanggan;
+SELECT * FROM Faktur;
+SELECT * FROM Detail_Faktur;
